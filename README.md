@@ -129,6 +129,7 @@ Communities and organizations that support lifelong learning.
 
 Books, guides, and resources focused on learning how to learn.
 
+- [HVAC School Guide — Cost vs Metro Pay](https://hvacschoolguide.com/reports/hvac-training-cost-vs-pay) - Free BLS-sourced months-to-recoup table for self-directed learners evaluating HVAC / skilled-trades training ROI.
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) — Popular course on effective learning strategies.
 - [Ultralearning](https://www.scottyoung.com/blog/ultralearning/) — Framework for intensive self-directed learning.
 - [Make It Stick](https://www.hup.harvard.edu/books/9780674729018) — Research-based guide to effective learning.
