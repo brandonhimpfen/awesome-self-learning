@@ -47,6 +47,7 @@ Free and open resources that support independent learning.
 - [LibreTexts](https://libretexts.org/) — Open-access educational content across many disciplines.
 - [OpenLearn](https://www.open.edu/openlearn/) — Free learning materials from The Open University.
 - [Saylor Academy](https://www.saylor.org/) — Free online courses and educational resources.
+- [地理中国 / Geo China](https://geo.taoliapp.com/) — Free Chinese-language spatiotemporal geography education: 3D globe timeline of administrative geography with linked poetry, battles, and local lore.
 
 ## Courses & MOOCs
 
